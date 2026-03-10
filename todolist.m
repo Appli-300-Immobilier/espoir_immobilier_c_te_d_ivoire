@@ -1,10 +1,10 @@
-# To-Do List for Espoir Immobilier c�te d'Ivoire Website
+# To-Do List for Espoir Immobilier céte d'Ivoire Website
 
 ## Project Overview
-- **Company Name:** Espoir Immobilier c�te d'Ivoire
+- **Company Name:** Espoir Immobilier céte d'Ivoire
 - **Directory:** espoir_immobilier_c_te_d_ivoire
 - **Address/Contact:** 
-  - Abidjan, C�te d'Ivoire
+  - Abidjan, Céte d'Ivoire
   - 
   - +225 0103340130
 - **Description:** 
@@ -23,7 +23,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: espoir-immobilier-c-te-d-ivoire  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Espoir Immobilier c�te d'Ivoire  - Meta description: ...
+  - Title: Espoir Immobilier céte d'Ivoire  - Meta description: ...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -39,7 +39,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Espoir Immobilier c�te d'Ivoire".
+  - Replace the hero title with "Espoir Immobilier céte d'Ivoire".
   - Update the subtitle with: "".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
